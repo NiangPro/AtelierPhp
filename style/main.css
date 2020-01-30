@@ -1,0 +1,17 @@
+body{
+    background: rgb(46, 45, 45);
+}
+
+/* .jumbotron{
+    background-color: rgb(31, 30, 30);
+    box-shadow: rgb(229, 231, 231) !important;
+    border-radius: 12px;
+} */
+
+.btn-perso{
+    width:400px !important;
+    height: 80px !important;
+    background: rgb(29, 26, 26) !important;
+    border-radius: 25px;
+    margin-left: 35% !important;
+}
